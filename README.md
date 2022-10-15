@@ -1,1 +1,1 @@
-# online-shopping-backend
+# assignment-online-shopping
